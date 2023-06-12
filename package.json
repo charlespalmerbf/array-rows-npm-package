@@ -1,0 +1,22 @@
+{
+  "name": "@charlespalmerbf/array-rows",
+  "version": "1.0.1",
+  "description": "The arrayRows function takes an array and a number, divides the array into smaller arrays of the specified size, and returns an array of these smaller arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlespalmerbf/array-rows-npm-package.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "charlespalmerbf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlespalmerbf/array-rows-npm-package/issues"
+  },
+  "homepage": "https://github.com/charlespalmerbf/array-rows-npm-package#readme"
+}
