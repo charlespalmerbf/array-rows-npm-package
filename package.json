@@ -1,6 +1,6 @@
 {
   "name": "@charlespalmerbf/array-rows",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "The arrayRows function takes an array and a number, divides the array into smaller arrays of the specified size, and returns an array of these smaller arrays.",
   "main": "index.js",
   "scripts": {
