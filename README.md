@@ -1,4 +1,4 @@
-https://img.shields.io/npm/dw/@charlespalmerbf/array-rows?style=for-the-badge
+![alt text](https://img.shields.io/npm/dw/@charlespalmerbf/array-rows?style=for-the-badge)
 
 # @charlespalmerbf/array-rows
 
