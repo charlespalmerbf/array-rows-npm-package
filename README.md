@@ -1,3 +1,5 @@
+https://img.shields.io/npm/dw/@charlespalmerbf/array-rows?style=for-the-badge
+
 # @charlespalmerbf/array-rows
 
 The provided Javascript library, `arrayRows`, takes an array and a number as input parameters and returns a new array with the original array divided into smaller arrays, each containing a specified number of elements.
